@@ -2,6 +2,9 @@
 
 This Python script fetches and displays real-time stock data for a list of ticker symbols. It uses the `yfinance` library to fetch the stock data and the `curses` library to display the data in a terminal user interface.
 
+## Requirements
+- Python 3.6+
+
 ## Dependencies
 
 - yfinance
